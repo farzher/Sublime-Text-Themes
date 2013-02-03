@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#333333</string>
+				<key>caret</key>
+				<string>#f8f8f0</string>
+				<key>foreground</key>
+				<string>#bdd6db</string>
+				<key>invisibles</key>
+				<string>#3B3A32</string>
+				<key>lineHighlight</key>
+				<string>#444444</string>
+				<key>selection</key>
+				<string>#161A1F</string>
+				<key>findHighlight</key>
+				<string>#FFE792</string>
+				<key>findHighlightForeground</key>
+				<string>#000000</string>
+				<key>selectionBorder</key>
+				<string>#222218</string>
+				<key>activeGuide</key>
+				<string>#9D550FB0</string>
+				<key>bracketsForeground</key>
+				<string>#F8F8F2A5</string>
+				<key>bracketsOptions</key>
+				<string>underline</string>
+				<key>bracketContentsForeground</key>
+				<string>#F8F8F2A5</string>
+				<key>bracketContentsOptions</key>
+				<string>underline</string>
+				<key>tagsOptions</key>
+				<string>stippled_underline</string>
+			</dict>
+		</dict>
+		<!-- comment -->
+		<dict>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#537178</string>
+			</dict>
+		</dict>
+		<!-- string -->
+		<dict>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00ff80</string>
+			</dict>
+		</dict>
+		<!-- reserved -->
+		<dict>
+			<key>scope</key>
+			<string>constant.numeric, constant.language, constant.character, constant.other, keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff8080</string>
+			</dict>
+		</dict>
+		<!-- storage -->
+		<dict>
+			<key>scope</key>
+			<string>storage, variable, entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<!-- blue version -->
+				<!-- <string>#00A8C6</string> -->
+				<!-- orange storage alternative -->
+				<string>#f38630</string>
+				<key>background</key>
+				<string>#222222</string>
+			</dict>
+		</dict>
+		<!-- tag attribute -->
+		<dict>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffff80</string>
+			</dict>
+		</dict>
+		<!-- invalid -->
+		<dict>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00A8C6</string>
+				<key>foreground</key>
+				<string>#F8F8F0</string>
+			</dict>
+		</dict>
+
+
+		<!-- change specific languages -->
+		<!-- html and similar things -->
+		<dict>
+			<key>scope</key>
+			<string>text</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#33333b</string>
+			</dict>
+		</dict>
+		<!-- php -->
+		<dict>
+			<key>scope</key>
+			<string>source.php, punctuation.whitespace</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#3b3333</string>
+			</dict>
+		</dict>
+		<!-- css -->
+		<dict>
+			<key>scope</key>
+			<string>source.css</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#3b3b33</string>
+			</dict>
+		</dict>
+		<!-- js -->
+		<dict>
+			<key>scope</key>
+			<string>source.js</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#333b33</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
