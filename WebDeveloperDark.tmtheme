@@ -7,17 +7,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#333333</string>
+				<string>#191919</string>
 				<key>caret</key>
 				<string>#f8f8f0</string>
 				<key>foreground</key>
-				<string>#bdd6db</string>
+				<string>#bbbbbb</string>
 				<key>lineHighlight</key>
 				<string>#444444</string>
 				<key>selection</key>
-				<string>#161A1F</string>
+				<string>#444444</string>
 				<key>findHighlight</key>
-				<string>#FFE792</string>
+				<string>#ffff80</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
@@ -43,7 +43,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#999999</string>
+				<string>#555555</string>
 			</dict>
 		</dict>
 		<!-- string -->
@@ -73,12 +73,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<!-- blue version -->
-				<!-- <string>#00A8C6</string> -->
-				<!-- orange storage alternative -->
-				<string>#f38630</string>
+				<string>#ff8000</string>
 				<key>background</key>
-				<string>#222222</string>
+				<string>#191919</string>
 			</dict>
 		</dict>
 		<!-- tag attribute -->
@@ -113,7 +110,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#33333b</string>
+				<string>#19191f</string>
 			</dict>
 		</dict>
 		<!-- php -->
@@ -123,7 +120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3b3333</string>
+				<string>#1f1919</string>
 			</dict>
 		</dict>
 		<!-- css -->
@@ -133,7 +130,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3b3b33</string>
+				<string>#1f1f19</string>
 			</dict>
 		</dict>
 		<!-- js -->
@@ -143,7 +140,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#333b33</string>
+				<string>#191f19</string>
 			</dict>
 		</dict>
 	</array>
