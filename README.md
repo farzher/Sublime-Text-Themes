@@ -1,5 +1,5 @@
 #Installation
-Just use package control and install "Theme - Farzher"
+Just use package control and install `Theme - Farzher`!
 
 
 #Themes
