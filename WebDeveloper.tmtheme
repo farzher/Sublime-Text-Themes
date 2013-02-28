@@ -59,7 +59,7 @@
 		<!-- reserved -->
 		<dict>
 			<key>scope</key>
-			<string>constant.numeric, constant.language, constant.character, constant.other, keyword</string>
+			<string>constant.numeric, constant.language, constant.character, constant.other, keyword, punctuation.section.embedded</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -73,9 +73,6 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<!-- blue version -->
-				<!-- <string>#00A8C6</string> -->
-				<!-- orange storage alternative -->
 				<string>#f38630</string>
 				<key>background</key>
 				<string>#222222</string>
@@ -85,6 +82,16 @@
 		<dict>
 			<key>scope</key>
 			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffff80</string>
+			</dict>
+		</dict>
+		<!-- class -->
+		<dict>
+			<key>scope</key>
+			<string>meta.class, meta.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -103,6 +110,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+
 
 
 		<!-- change specific languages -->
