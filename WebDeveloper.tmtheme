@@ -78,20 +78,10 @@
 				<string>#222222</string>
 			</dict>
 		</dict>
-		<!-- tag attribute -->
-		<dict>
-			<key>scope</key>
-			<string>entity.other.attribute-name</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffff80</string>
-			</dict>
-		</dict>
 		<!-- class & function -->
 		<dict>
 			<key>scope</key>
-			<string>meta.class, meta.function</string>
+			<string>meta.class, meta.function, meta.function-call, support.class, support.function, entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
