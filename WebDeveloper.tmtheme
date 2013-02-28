@@ -69,7 +69,7 @@
 		<!-- storage -->
 		<dict>
 			<key>scope</key>
-			<string>storage, variable, entity.name.tag</string>
+			<string>storage, variable, entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -81,7 +81,7 @@
 		<!-- class & function -->
 		<dict>
 			<key>scope</key>
-			<string>meta.class, meta.function, meta.function-call, support.class, support.function, entity.other.attribute-name</string>
+			<string>meta.class, meta.function, meta.function-call, support.class, support.function, entity.name.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
