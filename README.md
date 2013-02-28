@@ -1,5 +1,5 @@
 #Installation
-Just use package control and install `Theme - Farzher`!
+Just use [Package Control](http://wbond.net/sublime_packages/package_control) and install `Theme - Farzher`!
 
 
 #Themes
