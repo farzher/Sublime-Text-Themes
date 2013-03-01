@@ -12,6 +12,6 @@ Currently supports different styles for `php`, `html`, `css`, `js`.
 - Yellow: functions & classes
 - Orange: variables / storage
 - Green: string
-- Red: constant
+- Red: reserved
 
 ![WebDeveloper](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloper.png)
