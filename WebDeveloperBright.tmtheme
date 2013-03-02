@@ -88,10 +88,10 @@
 				<string>#ffff80</string>
 			</dict>
 		</dict>
-		<!-- class -->
+		<!-- class & function -->
 		<dict>
 			<key>scope</key>
-			<string>meta.class, meta.function</string>
+			<string>meta.class, meta.function, meta.function-call, support.class, support.function, entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
