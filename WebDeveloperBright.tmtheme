@@ -69,7 +69,7 @@
 		<!-- storage -->
 		<dict>
 			<key>scope</key>
-			<string>storage, variable, entity.other.attribute-name</string>
+			<string>storage, variable, entity.name.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -78,16 +78,24 @@
 				<string>#222222</string>
 			</dict>
 		</dict>
-		<!-- class & function -->
+		<!-- tag attribute -->
 		<dict>
 			<key>scope</key>
-			<string>meta.class, meta.function, meta.function-call, support.class, support.function, entity.name.tag</string>
+			<string>entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#ffff80</string>
-				<key>background</key>
-				<string>#222222</string>
+			</dict>
+		</dict>
+		<!-- class -->
+		<dict>
+			<key>scope</key>
+			<string>meta.class, meta.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffff80</string>
 			</dict>
 		</dict>
 		<!-- invalid -->
