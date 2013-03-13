@@ -18,8 +18,15 @@ Currently supports different styles for `php`, `html`, `css`, `js`.
 ![WebDeveloperDark](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperDark.png)
 
 
+
 ### WebDeveloperBright
 
 A brighter alternative.
 
 ![WebDeveloperBright](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperBright.png)
+
+
+
+### WebDeveloperClassic
+
+![WebDeveloperBright](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperClassic.png)

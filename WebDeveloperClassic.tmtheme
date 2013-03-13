@@ -7,26 +7,23 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ffffff</string>
+				<string>#333333</string>
 				<key>caret</key>
-				<string>#615649</string>
+				<string>#f8f8f0</string>
 				<key>foreground</key>
-				<string>#414f5c</string>
-				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#bdd6db</string>
 				<key>lineHighlight</key>
-				<string>#f2f6f6</string>
+				<string>#444444</string>
 				<key>selection</key>
-				<string>#a9dae5</string>
+				<string>#666666</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
-				<string>#88c7d4</string>
+				<string>#222218</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
-
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketsOptions</key>
@@ -37,9 +34,6 @@
 				<string>underline</string>
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
-
-				<!-- <key>fontStyle</key>
-				<string>bold</string> -->
 			</dict>
 		</dict>
 		<!-- comment -->
@@ -49,7 +43,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b8b6b1</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 		<!-- string -->
@@ -59,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#00ff80</string>
 			</dict>
 		</dict>
 		<!-- reserved -->
@@ -69,7 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#dd1144</string>
+				<string>#ff8080</string>
 			</dict>
 		</dict>
 		<!-- storage -->
@@ -79,11 +73,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DB9D18</string>
-				<!-- <key>background</key>
-				<string>#ffffff</string> -->
-				<key>fontStyle</key>
-				<string>bold</string>
+				<string>#f38630</string>
+				<key>background</key>
+				<string>#222222</string>
 			</dict>
 		</dict>
 		<!-- class & function -->
@@ -93,11 +85,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8E69C9</string>
-				<!-- <key>background</key>
-				<string>#ffffff</string> -->
-				<key>fontStyle</key>
-				<string>bold</string>
+				<string>#ffff80</string>
+				<key>background</key>
+				<string>#222222</string>
 			</dict>
 		</dict>
 		
@@ -124,7 +114,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#eeeeff</string>
+				<string>#33333b</string>
 			</dict>
 		</dict>
 		<!-- php -->
@@ -134,7 +124,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ffeeee</string>
+				<string>#3b3333</string>
 			</dict>
 		</dict>
 		<!-- css -->
@@ -144,7 +134,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ffffee</string>
+				<string>#3b3b33</string>
 			</dict>
 		</dict>
 		<!-- js -->
@@ -154,7 +144,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#eeffee</string>
+				<string>#333b33</string>
 			</dict>
 		</dict>
 	</array>
