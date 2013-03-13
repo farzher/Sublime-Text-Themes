@@ -37,9 +37,6 @@
 				<string>underline</string>
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
-
-				<!-- <key>fontStyle</key>
-				<string>bold</string> -->
 			</dict>
 		</dict>
 		<!-- comment -->
@@ -49,7 +46,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b8b6b1</string>
+				<string>#989691</string>
+				<key>background</key>
+				<string>#eeeeee</string>
 			</dict>
 		</dict>
 		<!-- string -->
@@ -80,10 +79,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#DB9D18</string>
-				<!-- <key>background</key>
-				<string>#ffffff</string> -->
-				<!-- <key>fontStyle</key>
-				<string>bold</string> -->
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
@@ -96,8 +91,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#8E69C9</string>
-				<!-- <key>background</key>
-				<string>#ffffff</string> -->
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -112,6 +105,16 @@
 				<string>#ffffff</string>
 				<key>fontStyle</key>
 				<string>bold</string>
+			</dict>
+		</dict>
+		<!-- class -->
+		<dict>
+			<key>scope</key>
+			<string>meta.class, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
 			</dict>
 		</dict>
 
