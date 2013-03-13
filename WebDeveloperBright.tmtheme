@@ -82,8 +82,10 @@
 				<string>#DB9D18</string>
 				<!-- <key>background</key>
 				<string>#ffffff</string> -->
+				<!-- <key>fontStyle</key>
+				<string>bold</string> -->
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<!-- class & function -->
@@ -100,7 +102,19 @@
 				<string>bold</string>
 			</dict>
 		</dict>
-		
+		<!-- function definition -->
+		<dict>
+			<key>scope</key>
+			<string>meta.function</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ffffff</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
 		<!-- invalid -->
 		<dict>
 			<key>scope</key>
