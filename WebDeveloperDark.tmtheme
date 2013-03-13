@@ -31,6 +31,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#969896</string>
+				<key>background</key>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<!-- string -->
@@ -61,8 +63,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#F0C674</string>
-				<key>background</key>
-				<string>#191919</string>
+				<key>fontStyle</key>
+				<string></string>
 			</dict>
 		</dict>
 		<!-- class & function -->
@@ -73,8 +75,26 @@
 			<dict>
 				<key>foreground</key>
 				<string>#B294BB</string>
+			</dict>
+		</dict>
+		<!-- function definition -->
+		<dict>
+			<key>scope</key>
+			<string>meta.function</string>
+			<key>settings</key>
+			<dict>
 				<key>background</key>
-				<string>#191919</string>
+				<string>#111111</string>
+			</dict>
+		</dict>
+		<!-- class -->
+		<dict>
+			<key>scope</key>
+			<string>meta.class, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		
