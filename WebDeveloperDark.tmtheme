@@ -152,10 +152,10 @@
 				<string>#212125</string>
 			</dict>
 		</dict>
-		<!-- php -->
+		<!-- php, asp -->
 		<dict>
 			<key>scope</key>
-			<string>source.php, punctuation.whitespace</string>
+			<string>source.php, source.asp, punctuation.whitespace</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
