@@ -46,9 +46,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#989691</string>
+				<string>#666666</string>
 				<key>background</key>
-				<string>#eeeeee</string>
+				<string>#cdcdcd</string>
 			</dict>
 		</dict>
 		<!-- string -->
@@ -59,6 +59,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#019d76</string>
+				<key>fontStyle</key>
+				<string></string>
 			</dict>
 		</dict>
 		<!-- reserved -->
@@ -69,6 +71,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#dd1144</string>
+				<key>fontStyle</key>
+				<string></string>
 			</dict>
 		</dict>
 		<!-- storage -->
@@ -102,7 +106,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ffffff</string>
+				<string>#212121</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -134,7 +138,18 @@
 
 
 		<!-- change specific languages -->
-		<!-- html and similar things -->
+		<!-- any unknown language (php, asp, ruby, python, ...) -->
+		<dict>
+			<key>scope</key>
+			<string>source, punctuation.whitespace</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<!-- <string>#ffffff</string> -->
+				<string>#ffeeee</string>
+			</dict>
+		</dict>
+		<!-- html/xml and similar things -->
 		<dict>
 			<key>scope</key>
 			<string>text</string>
@@ -142,16 +157,6 @@
 			<dict>
 				<key>background</key>
 				<string>#eeeeff</string>
-			</dict>
-		</dict>
-		<!-- php, asp -->
-		<dict>
-			<key>scope</key>
-			<string>source.php, source.asp, punctuation.whitespace</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#ffeeee</string>
 			</dict>
 		</dict>
 		<!-- css -->

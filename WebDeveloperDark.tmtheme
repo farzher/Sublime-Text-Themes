@@ -141,8 +141,19 @@
 		</dict>
 
 
-		<!-- change specific languages -->
-		<!-- html and similar things -->
+		<!-- change specific language styles -->
+		<!-- any unknown language (php, asp, ruby, python, ...) -->
+		<dict>
+			<key>scope</key>
+			<string>source, punctuation.whitespace</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<!-- <string>#212121</string> -->
+				<string>#252121</string>
+			</dict>
+		</dict>
+		<!-- html/xml and similar things -->
 		<dict>
 			<key>scope</key>
 			<string>text</string>
@@ -150,16 +161,6 @@
 			<dict>
 				<key>background</key>
 				<string>#212125</string>
-			</dict>
-		</dict>
-		<!-- php, asp -->
-		<dict>
-			<key>scope</key>
-			<string>source.php, source.asp, punctuation.whitespace</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#252121</string>
 			</dict>
 		</dict>
 		<!-- css -->
