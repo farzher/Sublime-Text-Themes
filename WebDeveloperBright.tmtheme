@@ -138,10 +138,10 @@
 
 
 		<!-- change specific languages -->
-		<!-- any unknown language (php, asp, ruby, python, ...) -->
+		<!-- php, asp, ruby, python, perl -->
 		<dict>
 			<key>scope</key>
-			<string>source, punctuation.whitespace</string>
+			<string>source.php, source.asp, source.ruby, source.python, source.perl, punctuation.whitespace</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
