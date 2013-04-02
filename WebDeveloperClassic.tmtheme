@@ -114,8 +114,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<!-- <string>#333333</string> -->
-				<string>#3b3333</string>
+				<string>#333333</string>
+				<!-- <string>#3b3333</string> -->
 			</dict>
 		</dict>
 		<!-- html/xml and similar things -->

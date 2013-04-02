@@ -149,8 +149,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<!-- <string>#212121</string> -->
-				<string>#252121</string>
+				<string>#212121</string>
+				<!-- <string>#292121</string> -->
 			</dict>
 		</dict>
 		<!-- html/xml and similar things -->
@@ -160,7 +160,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#212125</string>
+				<string>#212129</string>
 			</dict>
 		</dict>
 		<!-- css -->
@@ -170,7 +170,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#252521</string>
+				<string>#2921</string>
 			</dict>
 		</dict>
 		<!-- js -->
@@ -180,7 +180,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#212521</string>
+				<string>#212921</string>
 			</dict>
 		</dict>
 	</array>

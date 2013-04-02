@@ -106,7 +106,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#212121</string>
+				<string>#ffff99</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -145,8 +145,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<!-- <string>#ffffff</string> -->
-				<string>#ffeeee</string>
+				<string>#ffffff</string>
+				<!-- <string>#ffeeee</string> -->
 			</dict>
 		</dict>
 		<!-- html/xml and similar things -->
