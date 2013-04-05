@@ -10,7 +10,7 @@ Themes are updated often and might not look exactly like the pictures.
 
 This theme is designed to be useful, not pretty.
 I measure usability based on how quickly you can determine what you're looking at.
-Currently supports different styles for (`html`, `css`, `js`), ('php', 'asp', 'ruby', 'python', 'perl').
+Currently supports different styles for (`html`, `css`, `js`), (`php`, `asp`, `ruby`, `python`, `perl`).
 
 - Purple: functions, classes & tags
 - Yellow: variables / storage
