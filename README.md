@@ -9,7 +9,7 @@ Themes are updated often and might not look exactly like the pictures.
 ### WebDeveloperDark
 
 This theme is designed to be useful, not pretty.
-I measure usability based on how quickly you can determine what you're looking at. For example; comments are usually muted, here they stand out.
+I measure usability based on how quickly you can determine what you're looking at. For example; comments are usually muted, but here they stand out.
 Currently supports different styles for (`html`, `css`, `js`), (`php`, `asp`, `ruby`, `python`, `perl`).
 
 - Purple: functions, classes & tags
