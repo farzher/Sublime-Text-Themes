@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#212121</string>
+				<key>caret</key>
+				<string>#ffffff</string>
+				<key>foreground</key>
+				<string>#B4B4B4</string>
+				<key>invisibles</key>
+				<string>#4B4E55</string>
+				<key>lineHighlight</key>
+				<string>#333333</string>
+				<key>selection</key>
+				<string>#223F63</string>
+				<key>inactiveSelection</key>
+				<string>#565656</string>
+			</dict>
+		</dict>
+		
+		<!-- comment -->
+		<dict>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#212121</string>
+				<key>background</key>
+				<string>#B4B4B4</string>
+			</dict>
+		</dict>
+		<!-- string -->
+		<dict>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#212121</string>
+				<key>background</key>
+				<string>#4fb34f</string>
+			</dict>
+		</dict>
+		<!-- reserved -->
+		<dict>
+			<key>scope</key>
+			<string>constant.numeric, constant.language, constant.character, constant.other, keyword, punctuation.section.embedded</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#212121</string>
+				<key>background</key>
+				<string>#df6262</string>
+			</dict>
+		</dict>
+		<!-- number -->
+		<dict>
+			<key>scope</key>
+			<string>constant.numeric</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#212121</string>
+				<key>background</key>
+				<string>#6c8cd5</string>
+			</dict>
+		</dict>
+		<!-- storage -->
+		<dict>
+			<key>scope</key>
+			<string>storage, variable, entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#212121</string>
+				<key>background</key>
+				<string>#d3d362</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<!-- class & function & html tag -->
+		<dict>
+			<key>scope</key>
+			<string>meta.class, meta.function, meta.function-call, support.class, support.function, entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#212121</string>
+				<key>background</key>
+				<string>#d39b62</string>
+			</dict>
+		</dict>
+		<!-- function definition -->
+		<dict>
+			<key>scope</key>
+			<string>meta.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#212121</string>
+				<key>background</key>
+				<string>#3b8686</string>
+			</dict>
+		</dict>
+		<!-- class -->
+		<dict>
+			<key>scope</key>
+			<string>meta.class, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		
+		
+		<!-- Invalid -->
+		<dict>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CED2CF</string>
+				<key>background</key>
+				<string>#DF5F5F</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<!-- Separator -->
+		<dict>
+			<key>scope</key>
+			<string>meta.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#82A3BF</string>
+				<key>foreground</key>
+				<string>#CED2CF</string>
+			</dict>
+		</dict>
+		<!-- Deprecated -->
+		<dict>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B798BF</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#CED2CF</string>
+			</dict>
+		</dict>
+
+
+		<!-- change specific language styles -->
+		<!-- php, asp, ruby, python, perl -->
+		<dict>
+			<key>scope</key>
+			<string>source.php, source.asp, source.ruby, source.python, source.perl, punctuation.whitespace</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#212121</string>
+			</dict>
+		</dict>
+		<!-- html/xml and similar things -->
+		<dict>
+			<key>scope</key>
+			<string>text</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#212129</string>
+			</dict>
+		</dict>
+		<!-- css -->
+		<dict>
+			<key>scope</key>
+			<string>source.css</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#292921</string>
+			</dict>
+		</dict>
+		<!-- js -->
+		<dict>
+			<key>scope</key>
+			<string>source.js</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#212921</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
