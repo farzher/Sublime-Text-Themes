@@ -8,16 +8,21 @@
 			<dict>
 				<key>background</key>
 				<string>#212121</string>
-				<key>caret</key>
-				<string>#ffffff</string>
 				<key>foreground</key>
 				<string>#B4B4B4</string>
+
+				<key>caret</key>
+				<string>#ffffff</string>
 				<key>invisibles</key>
 				<string>#4B4E55</string>
 				<key>lineHighlight</key>
 				<string>#333333</string>
+
 				<key>selection</key>
 				<string>#223F63</string>
+				<key>selectionForeground</key>
+				<string>#ececec</string>
+
 				<key>inactiveSelection</key>
 				<string>#565656</string>
 			</dict>
