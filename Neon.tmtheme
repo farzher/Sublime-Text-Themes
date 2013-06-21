@@ -3,56 +3,33 @@
 <dict>
 	<key>settings</key>
 	<array>
+		<!-- general -->
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
 				<string>#1c1c1c</string>
+				<key>foreground</key>
+				<string>#71787c</string>
+
 				<key>caret</key>
 				<string>#D8D9D1</string>
-				<key>foreground</key>
-				<string>#Dff0f977</string>
 				<key>invisibles</key>
 				<string>#E5E5B2</string>
 				<key>lineHighlight</key>
 				<string>#282828</string>
+
 				<key>selection</key>
-				<string>#6405D069</string>
-				<key>selectionBorder</key>
-				<string>#8425f069</string>
+				<string>#223F63</string>
+				<key>selectionForeground</key>
+				<string>#ececec</string>
+
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 				<key>tagsForeground</key>
 				<string>#B6DFEB</string>
 				<key>tagsOptions</key>
 				<string>underline</string>
-			</dict>
-		</dict>
-		
-		<!-- stuff -->
-		<dict>
-			<key>scope</key>
-			<string>punctuation.definition.parameters, meta.brace, meta.delimiter, punctuation.terminator.expression.php, source.php.embedded.block.html, keyword.operator.class.php </string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#Dff0f977</string>
-			</dict>
-		</dict>
-		<!-- Parenthesis -->
-		<dict>
-			<key>scope</key>
-			<string>punctuation.definition.list</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#949494</string>
-				<key>background</key>
-				<string>#9494940a</string>
 			</dict>
 		</dict>
 		<!-- comment -->
@@ -64,9 +41,9 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#0000000b</string>
+				<string>#Dff0f90b</string>
 				<key>background</key>
-				<string>#Dff0f977</string>
+				<string>#71787c</string>
 			</dict>
 		</dict>
 		<!-- string -->
@@ -119,20 +96,6 @@
 				<string>#bDbe820f</string>
 			</dict>
 		</dict>
-		<!-- Storage Modifier -->
-		<dict>
-			<key>scope</key>
-			<string>storage.modifier</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#bB7Dbf</string>
-				<key>background</key>
-				<string>#9B9FfD10</string>
-			</dict>
-		</dict>
 		<!-- Storage modifier -->
 		<dict>
 			<key>scope</key>
@@ -145,6 +108,18 @@
 				<string>#8B6ccfff</string>
 				<key>background</key>
 				<string>#8B5Ddf11</string>
+			</dict>
+		</dict>
+		<!-- function -->
+		<dict>
+			<key>scope</key>
+			<string>meta.function-call</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cBaf6cff</string>
+				<key>background</key>
+				<string>#cBaf6c11</string>
 			</dict>
 		</dict>
 		<!-- Function Name -->
@@ -252,9 +227,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5adAf8</string>
+				<string>#bB7Dbf</string>
 				<key>background</key>
-				<string>#A3AAD811</string>
+				<string>#9B9FfD10</string>
 			</dict>
 		</dict>
 		<!-- Class Name -->
@@ -298,7 +273,7 @@
 		<!-- Class name -->
 		<dict>
 			<key>scope</key>
-			<string>entity.name.class, entity.name.type.class</string>
+			<string>meta.class, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -369,6 +344,49 @@
 				<string>#4986c2cc</string>
 				<key>background</key>
 				<string>#4986c209</string>
+			</dict>
+		</dict>
+
+
+		<!-- change specific language styles -->
+		<!-- php, asp, ruby, python, perl -->
+		<dict>
+			<key>scope</key>
+			<string>source.php, source.asp, source.ruby, source.python, source.perl, punctuation.whitespace</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1c1c1c</string>
+			</dict>
+		</dict>
+		<!-- html/xml and similar things -->
+		<dict>
+			<key>scope</key>
+			<string>text</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1c1c22</string>
+			</dict>
+		</dict>
+		<!-- css -->
+		<dict>
+			<key>scope</key>
+			<string>source.css</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#22221c</string>
+			</dict>
+		</dict>
+		<!-- js -->
+		<dict>
+			<key>scope</key>
+			<string>source.js</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1c221c</string>
 			</dict>
 		</dict>
 	</array>
