@@ -39,11 +39,11 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>italic bold</string>
 				<key>foreground</key>
-				<string>#Dff0f90b</string>
-				<key>background</key>
 				<string>#71787c</string>
+				<key>background</key>
+				<string>#71787c2b</string>
 			</dict>
 		</dict>
 		<!-- string -->
@@ -102,8 +102,6 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#8B6ccfff</string>
 				<key>background</key>
@@ -226,6 +224,8 @@
 			<string>keyword</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#bB7Dbf</string>
 				<key>background</key>
@@ -238,8 +238,6 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#B998DF</string>
 				<key>background</key>
