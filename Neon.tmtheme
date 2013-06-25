@@ -41,9 +41,9 @@
 				<key>fontStyle</key>
 				<string>italic bold</string>
 				<key>foreground</key>
-				<string>#71787c</string>
+				<string>#a1784c</string>
 				<key>background</key>
-				<string>#71787c2b</string>
+				<string>#a1784c1b</string>
 			</dict>
 		</dict>
 		<!-- string -->
