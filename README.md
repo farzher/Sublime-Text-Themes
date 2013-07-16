@@ -24,6 +24,8 @@ Currently supports different styles for (`html`, `css`, `js`), (`php`, `asp`, `r
 
 ### Neon
 
+Goes great with techno music.
+
 ![Neon](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/Neon.png)
 
 
