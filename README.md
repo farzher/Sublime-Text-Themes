@@ -21,14 +21,17 @@ Currently supports different styles for (`html`, `css`, `js`), (`php`, `asp`, `r
 
 
 
+
+### Neon
+
+![Neon](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/Neon.png)
+
+
+
+
+
 ### WebDeveloperBright
 
 A brighter alternative.
 
 ![WebDeveloperBright](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperBright.png)
-
-
-
-### WebDeveloperClassic
-
-![WebDeveloperBright](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperClassic.png)
