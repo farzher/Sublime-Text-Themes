@@ -132,7 +132,7 @@
 				<key>background</key>
 				<string>#00A8C6</string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 
