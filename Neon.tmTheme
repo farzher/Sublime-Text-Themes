@@ -31,6 +31,13 @@
 				<string>#B6DFEB</string>
 				<key>tagsOptions</key>
 				<string>underline</string>
+
+				<key>activeGuide</key>
+				<string>#a1784c</string>
+				<key>stackGuide</key>
+				<string>#71787c66</string>
+				<key>guide</key>
+				<string>#71787c66</string>
 			</dict>
 		</dict>
 		<!-- comment -->
