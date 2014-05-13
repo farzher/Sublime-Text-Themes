@@ -2,29 +2,14 @@
 Just use [Package Control](http://wbond.net/sublime_packages/package_control) and install `Theme - Farzher`!
 
 
-#Themes
-
-Themes are updated often and might not look exactly like the pictures.
-
-### WebDeveloperDark
-
-This theme is designed to be useful, not pretty.
-I measure usability based on how quickly you can determine what you're looking at. For example; comments are usually muted, but here they stand out.
-Currently supports different styles for (`html`, `css`, `js`), (`php`, `asp`, `ruby`, `python`, `perl`).
-
-- Purple: functions, classes & tags
-- Yellow: variables / storage
-- Green: string
-- Red: reserved
-
-![WebDeveloperDark](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperDark.png)
+# Schemes
 
 
 
 
 ### Neon
 
-Goes great with techno music.
+This scheme is supported the most. Goes great with techno music.
 
 ![Neon](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/Neon.png)
 
@@ -32,8 +17,10 @@ Goes great with techno music.
 
 
 
-### WebDeveloperBright
+### WebDeveloperDark
 
-A brighter alternative.
+This scheme is designed to be useful, not pretty.
+I measure usability based on how quickly you can determine what you're looking at. For example; comments are usually muted, but here they stand out.
+Currently supports different styles for (`html`, `css`, `js`), (`php`, `asp`, `ruby`, `python`, `perl`).
 
-![WebDeveloperBright](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperBright.png)
+![WebDeveloperDark](https://raw.github.com/farzher/Sublime-Text-Themes/master/screenshots/WebDeveloperDark.png)
