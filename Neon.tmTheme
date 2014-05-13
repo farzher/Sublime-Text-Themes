@@ -396,7 +396,42 @@
 				</dict>
 			</dict>
 
-			<!-- GitGutter, Git Diff -->
+			<!-- GitGutter -->
+			<dict>
+				<key>scope</key>
+				<string>markup.inserted.git_gutter</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6cc644</string>
+					<key>background</key>
+					<string>#ddffdd10</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>scope</key>
+				<string>markup.deleted.git_gutter</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#bd2c00</string>
+					<key>background</key>
+					<string>#ffdddd10</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>scope</key>
+				<string>markup.changed.git_gutter</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#a1784c</string>
+					<key>background</key>
+					<string>#a1784c1b</string>
+				</dict>
+			</dict>
+
+			<!-- Git Diff -->
 			<!-- Insert -->
 			<dict>
 				<key>scope</key>
@@ -404,9 +439,9 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#6cc644</string>
+					<string>#12ffa9a0</string>
 					<key>background</key>
-					<string>#ddffdd10</string>
+					<string>#22ffa912</string>
 				</dict>
 			</dict>
 			<!-- Delete -->
@@ -416,9 +451,9 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#bd2c00</string>
+					<string>#ff4377a0</string>
 					<key>background</key>
-					<string>#ffdddd10</string>
+					<string>#ff339916</string>
 				</dict>
 			</dict>
 			<!-- Changed -->
