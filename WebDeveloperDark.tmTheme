@@ -19,11 +19,11 @@
 				<string>#333333</string>
 				<key>selection</key>
 				<string>#223F63</string>
-                <key>inactiveSelection</key>
-                <string>#565656</string>
+				<key>inactiveSelection</key>
+				<string>#565656</string>
 			</dict>
 		</dict>
-		
+
 		<!-- comment -->
 		<dict>
 			<key>scope</key>
@@ -98,8 +98,8 @@
 				<string>italic</string>
 			</dict>
 		</dict>
-		
-		
+
+
 		<!-- Invalid -->
 		<dict>
 			<key>scope</key>
@@ -182,6 +182,70 @@
 			<dict>
 				<key>background</key>
 				<string>#212921</string>
+			</dict>
+		</dict>
+
+		<!-- GitGutter -->
+		<dict>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6cc644</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#bd2c00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a1784c</string>
+			</dict>
+		</dict>
+
+		<!-- SublimeLinter -->
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Error</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.error</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D02000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Warning</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.warning</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DDB700</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Gutter Mark</string>
+			<key>scope</key>
+			<string>sublimelinter.gutter-mark</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 	</array>
