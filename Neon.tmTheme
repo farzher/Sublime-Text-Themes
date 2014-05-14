@@ -404,8 +404,6 @@
 				<dict>
 					<key>foreground</key>
 					<string>#6cc644</string>
-					<key>background</key>
-					<string>#ddffdd10</string>
 				</dict>
 			</dict>
 			<dict>
@@ -414,9 +412,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#bd2c00</string>
-					<key>background</key>
-					<string>#ffdddd10</string>
+					<string>#ff7Dbf</string>
 				</dict>
 			</dict>
 			<dict>
@@ -425,9 +421,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#a1784c</string>
-					<key>background</key>
-					<string>#a1784c1b</string>
+					<string>#ff984c</string>
 				</dict>
 			</dict>
 
