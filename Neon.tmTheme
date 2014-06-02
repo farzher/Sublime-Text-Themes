@@ -230,6 +230,32 @@
 			<!-- Keyword -->
 			<dict>
 				<key>scope</key>
+				<string>keyword.control</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#cB5F5Df0</string>
+					<key>background</key>
+					<string>#cB5F5D10</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>scope</key>
+				<string>keyword.operator</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#bB7Dbf</string>
+					<key>background</key>
+					<string>#9B9FfD10</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>scope</key>
 				<string>keyword</string>
 				<key>settings</key>
 				<dict>
