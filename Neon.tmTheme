@@ -217,7 +217,20 @@
 			<!-- Variable -->
 			<dict>
 				<key>scope</key>
-				<string>variable.language, variable.other, variable.parameter</string>
+				<string>variable.language, variable.other</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#3aafff</string>
+					<key>background</key>
+					<string>#3aafff0f</string>
+				</dict>
+			</dict>
+
+			<!-- Variable Assignment -->
+			<dict>
+				<key>scope</key>
+				<string>variable.parameter, variable.assignment</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
