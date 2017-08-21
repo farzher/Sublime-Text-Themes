@@ -1,4 +1,4 @@
-#Installation
+# Installation
 Just use [Package Control](http://wbond.net/sublime_packages/package_control) and install `Theme - Farzher`!
 
 Then `Preferences -> Color Scheme -> Theme - Farzher -> Neon`
